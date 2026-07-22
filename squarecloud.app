@@ -1,0 +1,9 @@
+﻿RUNTIME=nodejs
+MEMORY=512
+VERSION=recommended
+DISPLAY_NAME=LofyDocs
+DESCRIPTION=Portfolio de documentações técnicas
+SUBDOMAIN=lofydocs-docs
+START=npm install && npm run build && npx serve -s dist -l 80
+AUTORESTART=true
+ID=31b508da397c47d3b7963fa2e5a58c6a
