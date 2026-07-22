@@ -1,4 +1,4 @@
-# Squarecloud MCP
+# Squarecloud MCP 1
 
 ## Visão Geral
 
